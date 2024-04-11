@@ -40,8 +40,8 @@ Backend:
 
 2. Under server/OpticalMathSolver directory, add a `.env` file with the following line: 
 ```bash
-APP_ID=carleton_49358f_f7b227
-APP_KEY=78cd576439a7781b6a29a196cd599842b96f3bfd7a5f3df45843c3dbeb161924
+APP_ID=[your_app_id]
+APP_KEY=[your_app_key]
 ```
 
 3. Run the following command in the terminal:
