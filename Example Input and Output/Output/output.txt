@@ -1,0 +1,19 @@
+image 1: [{"answer":"32","question":"8 \\times 4"},{"answer":"10","question":"2 \\times 5"},{"answer":"25","question":"19+6"}]
+
+image 2:  [{"answer":"5","question":"25 / 5"}]
+
+image 3: [{"answer":"25","question":"19+6"}]
+
+image 4: [{"answer":"32","question":"8 \\times 4"}]
+
+image 5: [{"answer":"\\left[ \\left\\{ x : -5\\right\\}, \\  \\left\\{ x : -1\\right\\}\\right]","question":"(x+3)^{2}=4"}]
+
+image 6: [{"answer":"547","question":"3 \\longdiv { 1 6 4 1 }"}]
+
+image 7: [{"answer":"\\left[\\begin{matrix}6 & 8\\\\10 & 12\\end{matrix}\\right]","question":"\\left[\\begin{array}{ll}\n1 & 2 \\\\\n3 & 4\n\\end{array}\\right]+\\left[\\begin{array}{ll}\n5 & 6 \\\\\n7 & 8\n\\end{array}\\right]"}]
+
+image 8: [{"answer":"\\left[\\begin{matrix}-2 & 1\\\\\\frac{3}{2} & - \\frac{1}{2}\\end{matrix}\\right]","question":"\\left[\\begin{array}{ll}\n1 & 2 \\\\\n3 & 4\n\\end{array}\\right]^{-1}"}]
+
+image 9: [{"answer":"\\left[\\begin{matrix}19 & 22\\\\43 & 50\\end{matrix}\\right]","question":"\\left[\\begin{array}{ll}\n1 & 2 \\\\\n3 & 4\n\\end{array}\\right] \\times\\left[\\begin{array}{ll}\n5 & 6 \\\\\n7 & 8\n\\end{array}\\right]"}]
+
+image 10: [{"answer":"\\left[\\begin{matrix}2 & -6\\\\5 & 1\\end{matrix}\\right]","question":"\\left[\\begin{array}{cc}\n3 & -4 \\\\\n8 & 5\n\\end{array}\\right]-\\left[\\begin{array}{ll}\n1 & 2 \\\\\n3 & 4\n\\end{array}\\right]"}]
